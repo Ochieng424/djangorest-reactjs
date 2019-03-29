@@ -5,4 +5,4 @@ from .models import Lead
 class LeadSerializers(serializers.ModelSerializer):
     class Meta:
         model = Lead
-        fields = '_all_'
+        fields = "__all__"
