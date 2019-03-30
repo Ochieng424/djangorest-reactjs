@@ -1,0 +1,11 @@
+asn1crypto==0.24.0
+cffi==1.12.2
+cryptography==2.6.1
+Django==2.1.7
+django-rest-knox==4.0.0
+djangorestframework==3.9.2
+psycopg2==2.7.7
+psycopg2-binary==2.7.7
+pycparser==2.19
+pytz==2018.9
+six==1.12.0
